@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-######## ЗАДАНИЕ 4 ########
+######## ЗАДАНИЕ (4) ########
 chislo = int(input("Введите число "))
 cifra = chislo%10
 chislo = chislo//10

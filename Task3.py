@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-######## ЗАДАНИЕ 3 ########
+######## ЗАДАНИЕ (3) ########
 number = str(input('Введите любое число'))
 
 strnum1 = number + number
